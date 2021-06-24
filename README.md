@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Gavin</h1>
-<p align="center">A 15 year old high-school student trying to learn a little about everything.</p>
+<p align="center">A high-school student trying to learn a little about everything.</p>
 
 <div align="center"></div>
     <h1 align="center">GitHub Activity</h1>
