@@ -2,15 +2,14 @@
 
 **`Robotics Craftsman (Developer/Student/Tinkerer)`**
 
-- Mechatronics Engineering student with a passion for: 
-    - Electronics
-    - Mechanical design
-    - Programming
-- Building my version of the digital world one step at a time
-- Planning, designing, and solving real-life problems with code
-- Coding projects: Built from the ground up, showcasing attention to detail
-- Online digital portfolio: [my website][website]
-- Invitation: Dive into my work and join me on the exciting journey of building innovative robots in the future.
+- 🤖 Mechatronics Engineering student with a passion for: 
+    - ⚡ Electronics
+    - 🦾 Mechanical design
+    - 🧑‍💻 Programming
+- 🌐 Building my version of the digital world one step at a time
+- 💻 Planning, designing, and solving real-life problems with code
+- 🔗 Online digital portfolio: [my website][website]
+- 🙏 Dive into my work and join me on the exciting journey of building innovative robots in the future.
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCnBxk-HBG0jXScCYvieHLDA?sub_confirmation=1">
