@@ -1,8 +1,16 @@
-# 😭 Gavin Tranquilino (GuhBean)
+# 🐼 Gavin Tranquilino (GuhBean)
 
 **`Robotics Craftsman (Developer/Student/Tinkerer)`**
 
-I'm a mechatronics engineering student with a passion for electronics, mechanical design, and coding. I'm on a mission to build my version of the digital world one step at a time. From planning and designing to solving real-life problems with code, I create all my coding projects from the ground up. With the same level of dedication, I produce video content by ideating, planning, and adding artistic touches for a final product. You can explore my online digital portfolio, [e-portfolio][website], where I showcase my diverse range of projects and creations. Feel free to dive into my work and join me on this exciting journey of building innovative robots in the future.
+- Mechatronics Engineering student with a passion for: 
+    - Electronics
+    - Mechanical design
+    - Programming
+- Building my version of the digital world one step at a time
+- Planning, designing, and solving real-life problems with code
+- Coding projects: Built from the ground up, showcasing attention to detail
+- Online digital portfolio: [my website][website]
+- Invitation: Dive into my work and join me on the exciting journey of building innovative robots in the future.
 
    <p align="left">
       <a href="https://www.youtube.com/channel/UCnBxk-HBG0jXScCYvieHLDA?sub_confirmation=1">
@@ -17,7 +25,7 @@ I'm a mechatronics engineering student with a passion for electronics, mechanica
 
 ---
 
-### 🧰 Software and Tools
+### ⚒️ Software and Tools
 
 <!-- Android -->
 <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
@@ -80,7 +88,7 @@ I'm a mechatronics engineering student with a passion for electronics, mechanica
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺 My Newest Videos and Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
@@ -92,3 +100,6 @@ I'm a mechatronics engineering student with a passion for electronics, mechanica
 ### 📊 Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuhBean&show_icons=true&theme=graywhite)
+
+
+[website]: https://guhbean.github.io
