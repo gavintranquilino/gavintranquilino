@@ -5,7 +5,10 @@
 - 🤖 Mechatronics Engineering student with a passion for: 
     - ⚡ Electronics
     - 🦾 Mechanical design
+    - 🧰 CAD and 3D Printing
     - 🧑‍💻 Programming
+    - 💾 Open Source
+
 - 🌐 Building my version of the digital world one step at a time
 - 💻 Planning, designing, and solving real-life problems with code
 - 🔗 Online digital portfolio: [my website][website]
