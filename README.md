@@ -9,6 +9,7 @@
     - 🧑‍💻 Programming
     - 💾 Open Source
 
+- 🎓 Class of 2028
 - 🌐 Building my version of the digital world one step at a time
 - 💻 Planning, designing, and solving real-life problems with code
 - 🔗 Online digital portfolio: [my website][website]
