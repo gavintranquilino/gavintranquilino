@@ -94,12 +94,7 @@
 ### 📺 My Newest Videos and Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Robot Testing - Rapid React (2022) FRC 2702 Rebels FRC](https://ytcards.demolab.com/?id=u9qG72-kYxQ&title=Robot+Testing+-+Rapid+React+%282022%29+FRC+2702+Rebels+FRC&lang=en&timestamp=1680653973&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19 "Robot Testing - Rapid React (2022) FRC 2702 Rebels FRC")](https://www.youtube.com/watch?v=u9qG72-kYxQ)
-[![Rapid React (2022) FRC Intake Testing 2702 Rebels FRC](https://ytcards.demolab.com/?id=d_R-mZ6Phxw&title=Rapid+React+%282022%29+FRC+Intake+Testing+2702+Rebels+FRC&lang=en&timestamp=1680653696&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8 "Rapid React (2022) FRC Intake Testing 2702 Rebels FRC")](https://www.youtube.com/watch?v=d_R-mZ6Phxw)
-[![Light switch pt3](https://ytcards.demolab.com/?id=yjMIiRrY0TE&title=Light+switch+pt3&lang=en&timestamp=1674800127&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22 "Light switch pt3")](https://www.youtube.com/watch?v=yjMIiRrY0TE)
-[![Light switch pt2](https://ytcards.demolab.com/?id=bS2TKmz5eWY&title=Light+switch+pt2&lang=en&timestamp=1674800048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16 "Light switch pt2")](https://www.youtube.com/watch?v=bS2TKmz5eWY)
-[![Home Automated Room Light with Raspberry Pi + Flask + ngrok](https://ytcards.demolab.com/?id=zSlTrdzJzx0&title=Home+Automated+Room+Light+with+Raspberry+Pi+%2B+Flask+%2B+ngrok&lang=en&timestamp=1674797634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15 "Home Automated Room Light with Raspberry Pi + Flask + ngrok")](https://www.youtube.com/watch?v=zSlTrdzJzx0)
-[![Rocker Light Switch Testing](https://ytcards.demolab.com/?id=595ssVca1RQ&title=Rocker+Light+Switch+Testing&lang=en&timestamp=1674342582&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11 "Rocker Light Switch Testing")](https://www.youtube.com/watch?v=595ssVca1RQ)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCnBxk-HBG0jXScCYvieHLDA?sub_confirmation=1)
