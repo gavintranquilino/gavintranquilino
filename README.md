@@ -7,7 +7,7 @@
 ---
 
 ## 😁 General Info:
-- 🔗 See **ALL** of my projects: **[gavintranquilino.com][website]**
+- 🔗 See **ALL** of my projects and experiences: **[gavintranquilino.com][website]**
 - 💻 Planning, designing, and solving real-life problems with code
 - 🎓 Class of 2028
 - 🤖 Mechatronics Engineering student with a passion for: 
