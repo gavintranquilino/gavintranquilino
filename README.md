@@ -33,7 +33,12 @@
 
 ## 📺 My Newest Videos and Projects
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![ai agents](https://ytcards.demolab.com/?id=lMuStEP4gpI&title=ai+agents&lang=en&timestamp=1698542902&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141 "ai agents")](https://www.youtube.com/watch?v=lMuStEP4gpI)
+[![Cravin' Vinyls Showcase](https://ytcards.demolab.com/?id=j6EuXpASdCI&title=Cravin%27+Vinyls+Showcase&lang=en&timestamp=1697227317&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11 "Cravin' Vinyls Showcase")](https://www.youtube.com/watch?v=j6EuXpASdCI)
+[![Hockey Robot pt.4 - hard to control](https://ytcards.demolab.com/?id=IHJSrZ7amA0&title=Hockey+Robot+pt.4+-+hard+to+control&lang=en&timestamp=1697218461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9 "Hockey Robot pt.4 - hard to control")](https://www.youtube.com/watch?v=IHJSrZ7amA0)
+[![Hockey Robot pt.3 - fixing? the controls](https://ytcards.demolab.com/?id=KmmhUklcnoc&title=Hockey+Robot+pt.3+-+fixing%3F+the+controls&lang=en&timestamp=1697218420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19 "Hockey Robot pt.3 - fixing? the controls")](https://www.youtube.com/watch?v=KmmhUklcnoc)
+[![Hockey Robot pt.2 - Our best match](https://ytcards.demolab.com/?id=pJsD1qvGBlg&title=Hockey+Robot+pt.2+-+Our+best+match&lang=en&timestamp=1697218351&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=8 "Hockey Robot pt.2 - Our best match")](https://www.youtube.com/watch?v=pJsD1qvGBlg)
+[![Hockey Robot First Test Run](https://ytcards.demolab.com/?id=eBTe77-QnMk&title=Hockey+Robot+First+Test+Run&lang=en&timestamp=1697218210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=22 "Hockey Robot First Test Run")](https://www.youtube.com/watch?v=eBTe77-QnMk)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCnBxk-HBG0jXScCYvieHLDA?sub_confirmation=1)
