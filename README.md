@@ -1,8 +1,5 @@
 <!-- Start -->
 <h1 align="center" height="200">🐼 Hey, I'm Gavin 👋</h1>
-<center>
-   <code><b>Robotics Craftsman (Developer/Student/Tinkerer)</b></code>
-</center>
 
 ---
 
