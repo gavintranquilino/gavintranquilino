@@ -13,6 +13,7 @@
     - 🧰 CAD and 3D Printing
     - 🧑‍💻 Programming
     - 💾 Open Source
+- ⌨️ Check out my [Gists](https://gist.github.com/gavintranquilino)
 
 <!-- Subscribe Badges -->
 <p align="left">
