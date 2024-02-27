@@ -39,6 +39,10 @@
 [![Hockey Robot pt.3 - fixing? the controls](https://ytcards.demolab.com/?id=KmmhUklcnoc&title=Hockey+Robot+pt.3+-+fixing%3F+the+controls&lang=en&timestamp=1697218420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19 "Hockey Robot pt.3 - fixing? the controls")](https://www.youtube.com/watch?v=KmmhUklcnoc)
 <!-- END YOUTUBE-CARDS -->
 
+### 🛠️ Professional Video Work
+<a href="https://www.youtube.com/watch?v=gZQ3JH4EMIM" target="_blank"><img src="https://img.youtube.com/vi/gZQ3JH4EMIM/0.jpg" alt="DeWalt DCP580B Planer Sheartak" width="400" height="300"></a>
+
+
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCnBxk-HBG0jXScCYvieHLDA?sub_confirmation=1)
 
 ---
