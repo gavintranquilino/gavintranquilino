@@ -41,7 +41,7 @@
 
 ### 🛠️ Professional Video Work
 [![DeWalt DCP580B Planer Upgrade with Spiral Cutterhead: Step-by-Step Installation Guide](https://ytcards.demolab.com/?id=gZQ3JH4EMIM&title=Dewalt+DCP580B+Planer+Upgrade+with+Spiral+Cutterhead&lang=en&timestamp=1705530432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=507 "DeWalt DCP580B Planer Upgrade with Spiral Cutterhead: Step-by-Step Installation Guide")](https://www.youtube.com/watch?v=gZQ3JH4EMIM)
-[![Delta 22-580 Planer Upgrade with Spiral Cutterhead: Step-by-Step Installation Guide](https://ytcards.demolab.com/?id=lz2hX4HDBb0&title=Delta+22-580+Planer+Upgrade+with+Spiral+Cutterhead&lang=en&timestamp=1709418432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1172 "Delta 22-580 Planer Upgrade with Spiral Cutterhead: Step-by-Step Installation Guide")](https://www.youtube.com/watch?v=lz2hX4HDBb0)
+[![Delta 22-580 Planer Upgrade with Spiral Cutterhead: Step-by-Step Installation Guide](https://ytcards.demolab.com/?id=lz2hX4HDBb0&title=Delta+22-580+Planer+Upgrade+with+Spiral+Cutterhead&lang=en&timestamp=1709341307&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1172 "Delta 22-580 Planer Upgrade with Spiral Cutterhead: Step-by-Step Installation Guide")](https://www.youtube.com/watch?v=lz2hX4HDBb0)
 
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCnBxk-HBG0jXScCYvieHLDA?sub_confirmation=1)
