@@ -31,7 +31,12 @@
 
 ## 📺 My Newest Videos and Projects
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![interactive computer vision math learning tool (mathemati.co)](https://ytcards.demolab.com/?id=oSZiY7g0fMk&title=interactive+computer+vision+math+learning+tool+%28mathemati.co%29&lang=en&timestamp=1708903275&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=48 "interactive computer vision math learning tool (mathemati.co)")](https://www.youtube.com/watch?v=oSZiY7g0fMk)
+[![mathemati.co - an interactive computer vision math learning tool](https://ytcards.demolab.com/?id=cDD19112kq0&title=mathemati.co+-+an+interactive+computer+vision+math+learning+tool&lang=en&timestamp=1708902566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=53 "mathemati.co - an interactive computer vision math learning tool")](https://www.youtube.com/watch?v=cDD19112kq0)
+[![ai agents](https://ytcards.demolab.com/?id=lMuStEP4gpI&title=ai+agents&lang=en&timestamp=1698542902&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=141 "ai agents")](https://www.youtube.com/watch?v=lMuStEP4gpI)
+[![Cravin' Vinyls Showcase](https://ytcards.demolab.com/?id=j6EuXpASdCI&title=Cravin%27+Vinyls+Showcase&lang=en&timestamp=1697227317&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11 "Cravin' Vinyls Showcase")](https://www.youtube.com/watch?v=j6EuXpASdCI)
+[![Hockey Robot pt.4 - hard to control](https://ytcards.demolab.com/?id=IHJSrZ7amA0&title=Hockey+Robot+pt.4+-+hard+to+control&lang=en&timestamp=1697218461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9 "Hockey Robot pt.4 - hard to control")](https://www.youtube.com/watch?v=IHJSrZ7amA0)
+[![Hockey Robot pt.3 - fixing? the controls](https://ytcards.demolab.com/?id=KmmhUklcnoc&title=Hockey+Robot+pt.3+-+fixing%3F+the+controls&lang=en&timestamp=1697218420&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=19 "Hockey Robot pt.3 - fixing? the controls")](https://www.youtube.com/watch?v=KmmhUklcnoc)
 <!-- END YOUTUBE-CARDS -->
 
 ### 🛠️ Professional Video Work
