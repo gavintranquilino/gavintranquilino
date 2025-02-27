@@ -131,8 +131,6 @@
 </br>
 </br>
 
----
-
 <!-- ## 📊 Stats -->
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=gavintranquilino&show_icons=true&theme=graywhite) -->
 
