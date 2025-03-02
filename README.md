@@ -3,7 +3,6 @@
 
 ---
 
-## 😁 General Info:
 - 🔗 See **ALL** of my projects and experiences: **[gavintranquilino.com][website]**
 - 💻 Planning, designing, and solving real-life problems with code
 - 🎓 Class of 2028
