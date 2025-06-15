@@ -7,8 +7,8 @@
 - 💻 Planning, designing, and solving real-life problems with code
 - 🎓 Class of 2028
 - 🤖 Mechatronics Engineering student with a passion for: 
+    - 🦾 Robotics
     - ⚡ Electronics
-    - 🦾 Mechanical design
     - 🧰 CAD and 3D Printing
     - 🧑‍💻 Programming
     - 💾 Open Source
