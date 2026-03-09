@@ -30,12 +30,7 @@
 
 ## 📺 My Newest Videos and Projects
 <!-- BEGIN YOUTUBE-CARDS -->
-[![car smashing (for charity)](https://ytcards.demolab.com/?id=3Zrj5MjiBa0&title=car+smashing+%28for+charity%29&lang=en&timestamp=1770077748&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23 "car smashing (for charity)")](https://www.youtube.com/shorts/3Zrj5MjiBa0)
-[![city panda](https://ytcards.demolab.com/?id=3QFzBFSLlz8&title=city+panda&lang=en&timestamp=1770077652&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9 "city panda")](https://www.youtube.com/shorts/3QFzBFSLlz8)
-[![Universal Robots arm #engineering #stem #automation #robot #robotics #robots](https://ytcards.demolab.com/?id=b1BfLeYEETM&title=Universal+Robots+arm+%23engineering+%23stem+%23automation+%23robot+%23robotics+%23robots&lang=en&timestamp=1770077592&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11 "Universal Robots arm #engineering #stem #automation #robot #robotics #robots")](https://www.youtube.com/shorts/b1BfLeYEETM)
-[![Chemistry Lab Automation #engineering #stem #engineer #automation #robot #robotics #robots](https://ytcards.demolab.com/?id=tYskcgLxdKI&title=Chemistry+Lab+Automation+%23engineering+%23stem+%23engineer+%23automation+%23robot+%23robotics+%23robots&lang=en&timestamp=1770077489&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21 "Chemistry Lab Automation #engineering #stem #engineer #automation #robot #robotics #robots")](https://www.youtube.com/shorts/tYskcgLxdKI)
-[![robot arm drawing #engineering #robot #robotics #arduino #robotarm #arduinoproject #programming](https://ytcards.demolab.com/?id=y43DbujlbpY&title=robot+arm+drawing+%23engineering+%23robot+%23robotics+%23arduino+%23robotarm+%23arduinoproject+%23programming&lang=en&timestamp=1767202125&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=12 "robot arm drawing #engineering #robot #robotics #arduino #robotarm #arduinoproject #programming")](https://www.youtube.com/shorts/y43DbujlbpY)
-[![goodnight chat](https://ytcards.demolab.com/?id=1li-DTj4NoQ&title=goodnight+chat&lang=en&timestamp=1766902981&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4 "goodnight chat")](https://www.youtube.com/shorts/1li-DTj4NoQ)
+
 <!-- END YOUTUBE-CARDS -->
 
 ### 🛠️ Professional Video Work
