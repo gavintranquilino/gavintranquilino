@@ -30,7 +30,12 @@
 
 ## 📺 My Newest Videos and Projects
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![UFactory Xarm Substrate Plate Pickup #automation #robotics #robot #robotarm #engineering](https://ytcards.demolab.com/?id=KimKZn1VJT8&title=UFactory+Xarm+Substrate+Plate+Pickup+%23automation+%23robotics+%23robot+%23robotarm+%23engineering&lang=en&timestamp=1774814819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=15 "UFactory Xarm Substrate Plate Pickup #automation #robotics #robot #robotarm #engineering")](https://www.youtube.com/shorts/KimKZn1VJT8)
+[![OpenTrons Self Driving Lab (Dryrun)](https://ytcards.demolab.com/?id=BguYpjcV_Vg&title=OpenTrons+Self+Driving+Lab+%28Dryrun%29&lang=en&timestamp=1774814645&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=24 "OpenTrons Self Driving Lab (Dryrun)")](https://www.youtube.com/shorts/BguYpjcV_Vg)
+[![electrochemistry](https://ytcards.demolab.com/?id=lFqqi2Oexrs&title=electrochemistry&lang=en&timestamp=1774814506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13 "electrochemistry")](https://www.youtube.com/shorts/lFqqi2Oexrs)
+[![car smashing (for charity)](https://ytcards.demolab.com/?id=3Zrj5MjiBa0&title=car+smashing+%28for+charity%29&lang=en&timestamp=1770077748&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=23 "car smashing (for charity)")](https://www.youtube.com/shorts/3Zrj5MjiBa0)
+[![city panda](https://ytcards.demolab.com/?id=3QFzBFSLlz8&title=city+panda&lang=en&timestamp=1770077652&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=9 "city panda")](https://www.youtube.com/shorts/3QFzBFSLlz8)
+[![Universal Robots arm #engineering #stem #automation #robot #robotics #robots](https://ytcards.demolab.com/?id=b1BfLeYEETM&title=Universal+Robots+arm+%23engineering+%23stem+%23automation+%23robot+%23robotics+%23robots&lang=en&timestamp=1770077592&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=11 "Universal Robots arm #engineering #stem #automation #robot #robotics #robots")](https://www.youtube.com/shorts/b1BfLeYEETM)
 <!-- END YOUTUBE-CARDS -->
 
 ### 🛠️ Professional Video Work
